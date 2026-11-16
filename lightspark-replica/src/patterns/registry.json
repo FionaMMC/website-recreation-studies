@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "collection": "lightspark",
+  "label": "Lightspark patterns",
+  "patterns": [
+    {
+      "id": "lightspark.soft-focus-card",
+      "label": "柔焦卡片 · Soft-focus card",
+      "component": "SoftFocusCard",
+      "source": "src/patterns/SoftFocusCard.jsx",
+      "description": "柔化图片边缘，以轻微位移和清晰度变化回应悬停与键盘焦点。",
+      "concepts": [
+        "image masks",
+        "hover and focus",
+        "progressive enhancement"
+      ],
+      "principles": [
+        "color:emotional-objects-neutral-shell",
+        "shape:continuous-corners"
+      ]
+    },
+    {
+      "id": "lightspark.hairline-grid",
+      "label": "细线网格 · Hairline grid",
+      "component": "HairlineGrid",
+      "source": "src/patterns/HairlineGrid.jsx",
+      "description": "用一像素分隔线和留白组织信息，桌面与移动端列数可独立设置。",
+      "concepts": [
+        "CSS grid",
+        "responsive columns",
+        "semantic lists"
+      ],
+      "principles": [
+        "layout:hairline-editorial-grid",
+        "layout:whitespace-as-hierarchy"
+      ]
+    },
+    {
+      "id": "lightspark.action-pair",
+      "label": "双重行动 · Action pair",
+      "component": "ActionPair",
+      "source": "src/patterns/ActionPair.jsx",
+      "description": "通过实心与浅色按钮建立主次关系，按目标使用链接或按钮。",
+      "concepts": [
+        "action hierarchy",
+        "link and button semantics",
+        "disabled states"
+      ],
+      "principles": [
+        "conversion:guided-or-self-serve"
+      ]
+    },
+    {
+      "id": "lightspark.partner-marquee",
+      "label": "标志跑马灯 · Partner marquee",
+      "component": "PartnerMarquee",
+      "source": "src/patterns/PartnerMarquee.jsx",
+      "description": "按像素速度连续滚动，自动填充宽度，支持暂停和减少动态效果。",
+      "concepts": [
+        "seamless loops",
+        "ResizeObserver",
+        "reduced motion",
+        "accessible duplication"
+      ],
+      "principles": [
+        "proof:quiet-logo-rail"
+      ]
+    },
+    {
+      "id": "lightspark.section-heading",
+      "label": "章节标题 · Section heading",
+      "component": "SectionHeading",
+      "source": "src/patterns/SectionHeading.jsx",
+      "description": "以克制的字重、紧凑标题与充足留白组织章节和相关操作。",
+      "concepts": [
+        "type hierarchy",
+        "composition",
+        "semantic headings"
+      ],
+      "principles": [
+        "type:restrained-variable-sans",
+        "layout:whitespace-as-hierarchy"
+      ]
+    }
+  ]
+}

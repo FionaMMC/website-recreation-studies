@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "title": "网站还原 · Website recreation studies",
+  "delivery": "local-only",
+  "studies": [
+    {
+      "id": "001-lightspark",
+      "name": "Lightspark",
+      "observedOn": "2026-11-17",
+      "timezone": "Australia/Sydney",
+      "source": "https://www.lightspark.com/",
+      "reference": "https://godly.design/website/lightspark/",
+      "directory": "lightspark-replica",
+      "framework": "React + Vite",
+      "userImpression": "苹果风，现代的，情绪的色彩的，商业的",
+      "impressionLabels": ["impression:apple-like", "impression:modern", "impression:emotional-color", "impression:commercial"],
+      "designStudy": "lightspark-replica/docs/lightspark-design-study.md",
+      "patternRegistry": "lightspark-replica/src/patterns/registry.json",
+      "localPaths": {"replica": "/", "patterns": "/study"}
+    }
+  ]
+}

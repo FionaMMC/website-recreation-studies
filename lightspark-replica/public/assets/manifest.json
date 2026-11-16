@@ -1,0 +1,1292 @@
+[
+  {
+    "url": "https://www.lightspark.com/_next/static/chunks/1895-602760327ca954ad.js",
+    "original_path": "/_next/static/chunks/1895-602760327ca954ad.js",
+    "local_path": "/_next/static/chunks/1895-602760327ca954ad.js",
+    "bytes": 31486
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/chunks/3136-6a191d37e191cb18.js",
+    "original_path": "/_next/static/chunks/3136-6a191d37e191cb18.js",
+    "local_path": "/_next/static/chunks/3136-6a191d37e191cb18.js",
+    "bytes": 207635
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/chunks/6021-e8e756e0fac2c265.js",
+    "original_path": "/_next/static/chunks/6021-e8e756e0fac2c265.js",
+    "local_path": "/_next/static/chunks/6021-e8e756e0fac2c265.js",
+    "bytes": 13793
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/chunks/7022-5fca8e0d2745e007.js",
+    "original_path": "/_next/static/chunks/7022-5fca8e0d2745e007.js",
+    "local_path": "/_next/static/chunks/7022-5fca8e0d2745e007.js",
+    "bytes": 88865
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/chunks/73-23b5bc0cfe7f5548.js",
+    "original_path": "/_next/static/chunks/73-23b5bc0cfe7f5548.js",
+    "local_path": "/_next/static/chunks/73-23b5bc0cfe7f5548.js",
+    "bytes": 36038
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/chunks/7acfccf4-f85fb9e47eae2939.js",
+    "original_path": "/_next/static/chunks/7acfccf4-f85fb9e47eae2939.js",
+    "local_path": "/_next/static/chunks/7acfccf4-f85fb9e47eae2939.js",
+    "bytes": 264567
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/chunks/framework-5991737ec854c1b5.js",
+    "original_path": "/_next/static/chunks/framework-5991737ec854c1b5.js",
+    "local_path": "/_next/static/chunks/framework-5991737ec854c1b5.js",
+    "bytes": 219033
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/chunks/main-41a1ac46906224cf.js",
+    "original_path": "/_next/static/chunks/main-41a1ac46906224cf.js",
+    "local_path": "/_next/static/chunks/main-41a1ac46906224cf.js",
+    "bytes": 140986
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/chunks/pages/_app-44817acd33900988.js",
+    "original_path": "/_next/static/chunks/pages/_app-44817acd33900988.js",
+    "local_path": "/_next/static/chunks/pages/_app-44817acd33900988.js",
+    "bytes": 22899
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/chunks/pages/index-5b50cd8771dcf0ea.js",
+    "original_path": "/_next/static/chunks/pages/index-5b50cd8771dcf0ea.js",
+    "local_path": "/_next/static/chunks/pages/index-5b50cd8771dcf0ea.js",
+    "bytes": 44723
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+    "original_path": "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+    "local_path": "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+    "bytes": 112594
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/chunks/webpack-2a00a1e438307362.js",
+    "original_path": "/_next/static/chunks/webpack-2a00a1e438307362.js",
+    "local_path": "/_next/static/chunks/webpack-2a00a1e438307362.js",
+    "bytes": 4945
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/css/084cb23d8a1bac3b.css",
+    "original_path": "/_next/static/css/084cb23d8a1bac3b.css",
+    "local_path": "/_next/static/css/084cb23d8a1bac3b.css",
+    "bytes": 36197
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/css/2ecc09f80f76fed9.css",
+    "original_path": "/_next/static/css/2ecc09f80f76fed9.css",
+    "local_path": "/_next/static/css/2ecc09f80f76fed9.css",
+    "bytes": 74084
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/css/38e4a8221f31f5a5.css",
+    "original_path": "/_next/static/css/38e4a8221f31f5a5.css",
+    "local_path": "/_next/static/css/38e4a8221f31f5a5.css",
+    "bytes": 12508
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/css/ddb0e37626aac29a.css",
+    "original_path": "/_next/static/css/ddb0e37626aac29a.css",
+    "local_path": "/_next/static/css/ddb0e37626aac29a.css",
+    "bytes": 30957
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/css/eb87e4f7aea490c6.css",
+    "original_path": "/_next/static/css/eb87e4f7aea490c6.css",
+    "local_path": "/_next/static/css/eb87e4f7aea490c6.css",
+    "bytes": 25157
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/tKGniYThTlchywi5oFTrn/_buildManifest.js",
+    "original_path": "/_next/static/tKGniYThTlchywi5oFTrn/_buildManifest.js",
+    "local_path": "/_next/static/tKGniYThTlchywi5oFTrn/_buildManifest.js",
+    "bytes": 11857
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/tKGniYThTlchywi5oFTrn/_ssgManifest.js",
+    "original_path": "/_next/static/tKGniYThTlchywi5oFTrn/_ssgManifest.js",
+    "local_path": "/_next/static/tKGniYThTlchywi5oFTrn/_ssgManifest.js",
+    "bytes": 2178
+  },
+  {
+    "url": "https://www.lightspark.com/browsers/vendor.js",
+    "original_path": "/browsers/vendor.js",
+    "local_path": "/browsers/vendor.js",
+    "bytes": 102
+  },
+  {
+    "url": "https://www.lightspark.com/favicons/apple-touch-icon.png",
+    "original_path": "/favicons/apple-touch-icon.png",
+    "local_path": "/favicons/apple-touch-icon.png",
+    "bytes": 1388
+  },
+  {
+    "url": "https://www.lightspark.com/favicons/favicon-16x16.png",
+    "original_path": "/favicons/favicon-16x16.png",
+    "local_path": "/favicons/favicon-16x16.png",
+    "bytes": 426
+  },
+  {
+    "url": "https://www.lightspark.com/favicons/favicon-32x32.png",
+    "original_path": "/favicons/favicon-32x32.png",
+    "local_path": "/favicons/favicon-32x32.png",
+    "bytes": 910
+  },
+  {
+    "url": "https://www.lightspark.com/favicons/favicon.ico",
+    "original_path": "/favicons/favicon.ico",
+    "local_path": "/favicons/favicon.ico",
+    "bytes": 15406
+  },
+  {
+    "url": "https://www.lightspark.com/fonts/SuisseIntlVF.woff2",
+    "original_path": "/fonts/SuisseIntlVF.woff2",
+    "local_path": "/fonts/SuisseIntlVF.woff2",
+    "bytes": 410492
+  },
+  {
+    "url": "https://www.lightspark.com/images/dev-blur/dev-img-docs.webp",
+    "original_path": "/images/dev-blur/dev-img-docs.webp",
+    "local_path": "/images/dev-blur/dev-img-docs.webp",
+    "bytes": 50822
+  },
+  {
+    "url": "https://www.lightspark.com/images/dev-blur/dev-img-flowbuilder.webp",
+    "original_path": "/images/dev-blur/dev-img-flowbuilder.webp",
+    "local_path": "/images/dev-blur/dev-img-flowbuilder.webp",
+    "bytes": 54988
+  },
+  {
+    "url": "https://www.lightspark.com/images/dev-blur/dev-img-playground.webp",
+    "original_path": "/images/dev-blur/dev-img-playground.webp",
+    "local_path": "/images/dev-blur/dev-img-playground.webp",
+    "bytes": 75230
+  },
+  {
+    "url": "https://www.lightspark.com/images/dev-blur/dev-img-sandbox.webp",
+    "original_path": "/images/dev-blur/dev-img-sandbox.webp",
+    "local_path": "/images/dev-blur/dev-img-sandbox.webp",
+    "bytes": 34128
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos-marquee/bakkt.svg",
+    "original_path": "/images/explore/logos-marquee/bakkt.svg",
+    "local_path": "/images/explore/logos-marquee/bakkt.svg",
+    "bytes": 3196
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos-marquee/banxa.svg",
+    "original_path": "/images/explore/logos-marquee/banxa.svg",
+    "local_path": "/images/explore/logos-marquee/banxa.svg",
+    "bytes": 5797
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos-marquee/bitnob.svg",
+    "original_path": "/images/explore/logos-marquee/bitnob.svg",
+    "local_path": "/images/explore/logos-marquee/bitnob.svg",
+    "bytes": 5071
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos-marquee/btcturk.svg",
+    "original_path": "/images/explore/logos-marquee/btcturk.svg",
+    "local_path": "/images/explore/logos-marquee/btcturk.svg",
+    "bytes": 11544
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos-marquee/coins-ph.svg",
+    "original_path": "/images/explore/logos-marquee/coins-ph.svg",
+    "local_path": "/images/explore/logos-marquee/coins-ph.svg",
+    "bytes": 8217
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos-marquee/fiwind.svg",
+    "original_path": "/images/explore/logos-marquee/fiwind.svg",
+    "local_path": "/images/explore/logos-marquee/fiwind.svg",
+    "bytes": 4483
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos-marquee/flexa.svg",
+    "original_path": "/images/explore/logos-marquee/flexa.svg",
+    "local_path": "/images/explore/logos-marquee/flexa.svg",
+    "bytes": 48869
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos-marquee/foxbit.svg",
+    "original_path": "/images/explore/logos-marquee/foxbit.svg",
+    "local_path": "/images/explore/logos-marquee/foxbit.svg",
+    "bytes": 11853
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos-marquee/partner-2.svg",
+    "original_path": "/images/explore/logos-marquee/partner-2.svg",
+    "local_path": "/images/explore/logos-marquee/partner-2.svg",
+    "bytes": 12729
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos-marquee/partner.svg",
+    "original_path": "/images/explore/logos-marquee/partner.svg",
+    "local_path": "/images/explore/logos-marquee/partner.svg",
+    "bytes": 14414
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos-marquee/pouch.svg",
+    "original_path": "/images/explore/logos-marquee/pouch.svg",
+    "local_path": "/images/explore/logos-marquee/pouch.svg",
+    "bytes": 5931
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos-marquee/rain.svg",
+    "original_path": "/images/explore/logos-marquee/rain.svg",
+    "local_path": "/images/explore/logos-marquee/rain.svg",
+    "bytes": 6712
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos-marquee/ripio.svg",
+    "original_path": "/images/explore/logos-marquee/ripio.svg",
+    "local_path": "/images/explore/logos-marquee/ripio.svg",
+    "bytes": 1823
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos-marquee/tmrw.svg",
+    "original_path": "/images/explore/logos-marquee/tmrw.svg",
+    "local_path": "/images/explore/logos-marquee/tmrw.svg",
+    "bytes": 5514
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos-marquee/unocoin.svg",
+    "original_path": "/images/explore/logos-marquee/unocoin.svg",
+    "local_path": "/images/explore/logos-marquee/unocoin.svg",
+    "bytes": 8986
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos-marquee/xapo-bank.svg",
+    "original_path": "/images/explore/logos-marquee/xapo-bank.svg",
+    "local_path": "/images/explore/logos-marquee/xapo-bank.svg",
+    "bytes": 4847
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos-marquee/youhodler.svg",
+    "original_path": "/images/explore/logos-marquee/youhodler.svg",
+    "local_path": "/images/explore/logos-marquee/youhodler.svg",
+    "bytes": 4416
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos-marquee/zero-hash.svg",
+    "original_path": "/images/explore/logos-marquee/zero-hash.svg",
+    "local_path": "/images/explore/logos-marquee/zero-hash.svg",
+    "bytes": 3241
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos/logo-avvio.svg",
+    "original_path": "/images/explore/logos/logo-avvio.svg",
+    "local_path": "/images/explore/logos/logo-avvio.svg",
+    "bytes": 3354
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos/logo-bitso.svg",
+    "original_path": "/images/explore/logos/logo-bitso.svg",
+    "local_path": "/images/explore/logos/logo-bitso.svg",
+    "bytes": 2889
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos/logo-coinbase.svg",
+    "original_path": "/images/explore/logos/logo-coinbase.svg",
+    "local_path": "/images/explore/logos/logo-coinbase.svg",
+    "bytes": 3657
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos/logo-deblock.svg",
+    "original_path": "/images/explore/logos/logo-deblock.svg",
+    "local_path": "/images/explore/logos/logo-deblock.svg",
+    "bytes": 4163
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos/logo-dolafy.svg",
+    "original_path": "/images/explore/logos/logo-dolafy.svg",
+    "local_path": "/images/explore/logos/logo-dolafy.svg",
+    "bytes": 6648
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos/logo-lootrush.svg",
+    "original_path": "/images/explore/logos/logo-lootrush.svg",
+    "local_path": "/images/explore/logos/logo-lootrush.svg",
+    "bytes": 5397
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos/logo-nu.svg",
+    "original_path": "/images/explore/logos/logo-nu.svg",
+    "local_path": "/images/explore/logos/logo-nu.svg",
+    "bytes": 1441
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos/logo-polymarket.svg",
+    "original_path": "/images/explore/logos/logo-polymarket.svg",
+    "local_path": "/images/explore/logos/logo-polymarket.svg",
+    "bytes": 7072
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos/logo-revolut.svg",
+    "original_path": "/images/explore/logos/logo-revolut.svg",
+    "local_path": "/images/explore/logos/logo-revolut.svg",
+    "bytes": 4067
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos/logo-sofi.svg",
+    "original_path": "/images/explore/logos/logo-sofi.svg",
+    "local_path": "/images/explore/logos/logo-sofi.svg",
+    "bytes": 5320
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos/logo-tether.svg",
+    "original_path": "/images/explore/logos/logo-tether.svg",
+    "local_path": "/images/explore/logos/logo-tether.svg",
+    "bytes": 4006
+  },
+  {
+    "url": "https://www.lightspark.com/images/explore/logos/logo-whop.svg",
+    "original_path": "/images/explore/logos/logo-whop.svg",
+    "local_path": "/images/explore/logos/logo-whop.svg",
+    "bytes": 4462
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur-640/hero-img-agentic-payments.webp",
+    "original_path": "/images/hero-v2-blur-640/hero-img-agentic-payments.webp",
+    "local_path": "/images/hero-v2-blur-640/hero-img-agentic-payments.webp",
+    "bytes": 24422
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur-640/hero-img-cards.webp",
+    "original_path": "/images/hero-v2-blur-640/hero-img-cards.webp",
+    "local_path": "/images/hero-v2-blur-640/hero-img-cards.webp",
+    "bytes": 15806
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur-640/hero-img-creator-gga.webp",
+    "original_path": "/images/hero-v2-blur-640/hero-img-creator-gga.webp",
+    "local_path": "/images/hero-v2-blur-640/hero-img-creator-gga.webp",
+    "bytes": 25324
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur-640/hero-img-cross-border.webp",
+    "original_path": "/images/hero-v2-blur-640/hero-img-cross-border.webp",
+    "local_path": "/images/hero-v2-blur-640/hero-img-cross-border.webp",
+    "bytes": 18686
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur-640/hero-img-deposits.webp",
+    "original_path": "/images/hero-v2-blur-640/hero-img-deposits.webp",
+    "local_path": "/images/hero-v2-blur-640/hero-img-deposits.webp",
+    "bytes": 48640
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur-640/hero-img-marketplaces-gga.webp",
+    "original_path": "/images/hero-v2-blur-640/hero-img-marketplaces-gga.webp",
+    "local_path": "/images/hero-v2-blur-640/hero-img-marketplaces-gga.webp",
+    "bytes": 18488
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur-640/hero-img-messaging-gga.webp",
+    "original_path": "/images/hero-v2-blur-640/hero-img-messaging-gga.webp",
+    "local_path": "/images/hero-v2-blur-640/hero-img-messaging-gga.webp",
+    "bytes": 20700
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur-640/hero-img-ondemand-gga.webp",
+    "original_path": "/images/hero-v2-blur-640/hero-img-ondemand-gga.webp",
+    "local_path": "/images/hero-v2-blur-640/hero-img-ondemand-gga.webp",
+    "bytes": 31416
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur-640/hero-img-payins.webp",
+    "original_path": "/images/hero-v2-blur-640/hero-img-payins.webp",
+    "local_path": "/images/hero-v2-blur-640/hero-img-payins.webp",
+    "bytes": 25870
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur-640/hero-img-payouts.webp",
+    "original_path": "/images/hero-v2-blur-640/hero-img-payouts.webp",
+    "local_path": "/images/hero-v2-blur-640/hero-img-payouts.webp",
+    "bytes": 22822
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur-640/hero-img-ramps.webp",
+    "original_path": "/images/hero-v2-blur-640/hero-img-ramps.webp",
+    "local_path": "/images/hero-v2-blur-640/hero-img-ramps.webp",
+    "bytes": 12860
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur-640/hero-img-rewards.webp",
+    "original_path": "/images/hero-v2-blur-640/hero-img-rewards.webp",
+    "local_path": "/images/hero-v2-blur-640/hero-img-rewards.webp",
+    "bytes": 28854
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur-640/hero-img-social-gga.webp",
+    "original_path": "/images/hero-v2-blur-640/hero-img-social-gga.webp",
+    "local_path": "/images/hero-v2-blur-640/hero-img-social-gga.webp",
+    "bytes": 15640
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur-640/hero-img-stablecoinissuance.webp",
+    "original_path": "/images/hero-v2-blur-640/hero-img-stablecoinissuance.webp",
+    "local_path": "/images/hero-v2-blur-640/hero-img-stablecoinissuance.webp",
+    "bytes": 24450
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur-640/hero-img-stablecoinpayments.webp",
+    "original_path": "/images/hero-v2-blur-640/hero-img-stablecoinpayments.webp",
+    "local_path": "/images/hero-v2-blur-640/hero-img-stablecoinpayments.webp",
+    "bytes": 22918
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur-640/hero-img-swap.webp",
+    "original_path": "/images/hero-v2-blur-640/hero-img-swap.webp",
+    "local_path": "/images/hero-v2-blur-640/hero-img-swap.webp",
+    "bytes": 45304
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur-640/hero-img-virtualaccounts.webp",
+    "original_path": "/images/hero-v2-blur-640/hero-img-virtualaccounts.webp",
+    "local_path": "/images/hero-v2-blur-640/hero-img-virtualaccounts.webp",
+    "bytes": 27342
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur-640/hero-img-wallet.webp",
+    "original_path": "/images/hero-v2-blur-640/hero-img-wallet.webp",
+    "local_path": "/images/hero-v2-blur-640/hero-img-wallet.webp",
+    "bytes": 28276
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur-640/hero-img-wallets-gga.webp",
+    "original_path": "/images/hero-v2-blur-640/hero-img-wallets-gga.webp",
+    "local_path": "/images/hero-v2-blur-640/hero-img-wallets-gga.webp",
+    "bytes": 20996
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur-640/hero-img-withdrawals.webp",
+    "original_path": "/images/hero-v2-blur-640/hero-img-withdrawals.webp",
+    "local_path": "/images/hero-v2-blur-640/hero-img-withdrawals.webp",
+    "bytes": 16576
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur/hero-img-agentic-payments.webp",
+    "original_path": "/images/hero-v2-blur/hero-img-agentic-payments.webp",
+    "local_path": "/images/hero-v2-blur/hero-img-agentic-payments.webp",
+    "bytes": 52868
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur/hero-img-cards.webp",
+    "original_path": "/images/hero-v2-blur/hero-img-cards.webp",
+    "local_path": "/images/hero-v2-blur/hero-img-cards.webp",
+    "bytes": 35932
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur/hero-img-creator-gga.webp",
+    "original_path": "/images/hero-v2-blur/hero-img-creator-gga.webp",
+    "local_path": "/images/hero-v2-blur/hero-img-creator-gga.webp",
+    "bytes": 63642
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur/hero-img-cross-border.webp",
+    "original_path": "/images/hero-v2-blur/hero-img-cross-border.webp",
+    "local_path": "/images/hero-v2-blur/hero-img-cross-border.webp",
+    "bytes": 41272
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur/hero-img-deposits.webp",
+    "original_path": "/images/hero-v2-blur/hero-img-deposits.webp",
+    "local_path": "/images/hero-v2-blur/hero-img-deposits.webp",
+    "bytes": 114854
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur/hero-img-marketplaces-gga.webp",
+    "original_path": "/images/hero-v2-blur/hero-img-marketplaces-gga.webp",
+    "local_path": "/images/hero-v2-blur/hero-img-marketplaces-gga.webp",
+    "bytes": 36684
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur/hero-img-messaging-gga.webp",
+    "original_path": "/images/hero-v2-blur/hero-img-messaging-gga.webp",
+    "local_path": "/images/hero-v2-blur/hero-img-messaging-gga.webp",
+    "bytes": 52518
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur/hero-img-ondemand-gga.webp",
+    "original_path": "/images/hero-v2-blur/hero-img-ondemand-gga.webp",
+    "local_path": "/images/hero-v2-blur/hero-img-ondemand-gga.webp",
+    "bytes": 96422
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur/hero-img-payins.webp",
+    "original_path": "/images/hero-v2-blur/hero-img-payins.webp",
+    "local_path": "/images/hero-v2-blur/hero-img-payins.webp",
+    "bytes": 61516
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur/hero-img-payouts.webp",
+    "original_path": "/images/hero-v2-blur/hero-img-payouts.webp",
+    "local_path": "/images/hero-v2-blur/hero-img-payouts.webp",
+    "bytes": 52370
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur/hero-img-ramps.webp",
+    "original_path": "/images/hero-v2-blur/hero-img-ramps.webp",
+    "local_path": "/images/hero-v2-blur/hero-img-ramps.webp",
+    "bytes": 29574
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur/hero-img-rewards.webp",
+    "original_path": "/images/hero-v2-blur/hero-img-rewards.webp",
+    "local_path": "/images/hero-v2-blur/hero-img-rewards.webp",
+    "bytes": 63920
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur/hero-img-social-gga.webp",
+    "original_path": "/images/hero-v2-blur/hero-img-social-gga.webp",
+    "local_path": "/images/hero-v2-blur/hero-img-social-gga.webp",
+    "bytes": 30238
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur/hero-img-stablecoinissuance.webp",
+    "original_path": "/images/hero-v2-blur/hero-img-stablecoinissuance.webp",
+    "local_path": "/images/hero-v2-blur/hero-img-stablecoinissuance.webp",
+    "bytes": 54686
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur/hero-img-stablecoinpayments.webp",
+    "original_path": "/images/hero-v2-blur/hero-img-stablecoinpayments.webp",
+    "local_path": "/images/hero-v2-blur/hero-img-stablecoinpayments.webp",
+    "bytes": 59944
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur/hero-img-swap.webp",
+    "original_path": "/images/hero-v2-blur/hero-img-swap.webp",
+    "local_path": "/images/hero-v2-blur/hero-img-swap.webp",
+    "bytes": 124070
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur/hero-img-virtualaccounts.webp",
+    "original_path": "/images/hero-v2-blur/hero-img-virtualaccounts.webp",
+    "local_path": "/images/hero-v2-blur/hero-img-virtualaccounts.webp",
+    "bytes": 71726
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur/hero-img-wallet.webp",
+    "original_path": "/images/hero-v2-blur/hero-img-wallet.webp",
+    "local_path": "/images/hero-v2-blur/hero-img-wallet.webp",
+    "bytes": 68416
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur/hero-img-wallets-gga.webp",
+    "original_path": "/images/hero-v2-blur/hero-img-wallets-gga.webp",
+    "local_path": "/images/hero-v2-blur/hero-img-wallets-gga.webp",
+    "bytes": 44660
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur/hero-img-withdrawals.webp",
+    "original_path": "/images/hero-v2-blur/hero-img-withdrawals.webp",
+    "local_path": "/images/hero-v2-blur/hero-img-withdrawals.webp",
+    "bytes": 38680
+  },
+  {
+    "url": "https://www.lightspark.com/js/datalayer.js",
+    "original_path": "/js/datalayer.js",
+    "local_path": "/js/datalayer.js",
+    "bytes": 407
+  },
+  {
+    "url": "https://www.lightspark.com/js/vwo.js",
+    "original_path": "/js/vwo.js",
+    "local_path": "/js/vwo.js",
+    "bytes": 5909
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_AMS-Regular.1608a09b.woff",
+    "original_path": "/_next/static/media/KaTeX_AMS-Regular.1608a09b.woff",
+    "local_path": "/_next/static/media/KaTeX_AMS-Regular.1608a09b.woff",
+    "bytes": 33516
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_AMS-Regular.4aafdb68.ttf",
+    "original_path": "/_next/static/media/KaTeX_AMS-Regular.4aafdb68.ttf",
+    "local_path": "/_next/static/media/KaTeX_AMS-Regular.4aafdb68.ttf",
+    "bytes": 63632
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_AMS-Regular.a79f1c31.woff2",
+    "original_path": "/_next/static/media/KaTeX_AMS-Regular.a79f1c31.woff2",
+    "local_path": "/_next/static/media/KaTeX_AMS-Regular.a79f1c31.woff2",
+    "bytes": 28076
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Caligraphic-Bold.b6770918.woff",
+    "original_path": "/_next/static/media/KaTeX_Caligraphic-Bold.b6770918.woff",
+    "local_path": "/_next/static/media/KaTeX_Caligraphic-Bold.b6770918.woff",
+    "bytes": 7716
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Caligraphic-Bold.cce5b8ec.ttf",
+    "original_path": "/_next/static/media/KaTeX_Caligraphic-Bold.cce5b8ec.ttf",
+    "local_path": "/_next/static/media/KaTeX_Caligraphic-Bold.cce5b8ec.ttf",
+    "bytes": 12368
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Caligraphic-Bold.ec17d132.woff2",
+    "original_path": "/_next/static/media/KaTeX_Caligraphic-Bold.ec17d132.woff2",
+    "local_path": "/_next/static/media/KaTeX_Caligraphic-Bold.ec17d132.woff2",
+    "bytes": 6912
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Caligraphic-Regular.07ef19e7.ttf",
+    "original_path": "/_next/static/media/KaTeX_Caligraphic-Regular.07ef19e7.ttf",
+    "local_path": "/_next/static/media/KaTeX_Caligraphic-Regular.07ef19e7.ttf",
+    "bytes": 12344
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Caligraphic-Regular.55fac258.woff2",
+    "original_path": "/_next/static/media/KaTeX_Caligraphic-Regular.55fac258.woff2",
+    "local_path": "/_next/static/media/KaTeX_Caligraphic-Regular.55fac258.woff2",
+    "bytes": 6908
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Caligraphic-Regular.dad44a7f.woff",
+    "original_path": "/_next/static/media/KaTeX_Caligraphic-Regular.dad44a7f.woff",
+    "local_path": "/_next/static/media/KaTeX_Caligraphic-Regular.dad44a7f.woff",
+    "bytes": 7656
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Fraktur-Bold.9f256b85.woff",
+    "original_path": "/_next/static/media/KaTeX_Fraktur-Bold.9f256b85.woff",
+    "local_path": "/_next/static/media/KaTeX_Fraktur-Bold.9f256b85.woff",
+    "bytes": 13296
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Fraktur-Bold.b18f59e1.ttf",
+    "original_path": "/_next/static/media/KaTeX_Fraktur-Bold.b18f59e1.ttf",
+    "local_path": "/_next/static/media/KaTeX_Fraktur-Bold.b18f59e1.ttf",
+    "bytes": 19584
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Fraktur-Bold.d42a5579.woff2",
+    "original_path": "/_next/static/media/KaTeX_Fraktur-Bold.d42a5579.woff2",
+    "local_path": "/_next/static/media/KaTeX_Fraktur-Bold.d42a5579.woff2",
+    "bytes": 11348
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Fraktur-Regular.7c187121.woff",
+    "original_path": "/_next/static/media/KaTeX_Fraktur-Regular.7c187121.woff",
+    "local_path": "/_next/static/media/KaTeX_Fraktur-Regular.7c187121.woff",
+    "bytes": 13208
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Fraktur-Regular.d3c882a6.woff2",
+    "original_path": "/_next/static/media/KaTeX_Fraktur-Regular.d3c882a6.woff2",
+    "local_path": "/_next/static/media/KaTeX_Fraktur-Regular.d3c882a6.woff2",
+    "bytes": 11316
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Fraktur-Regular.ed38e79f.ttf",
+    "original_path": "/_next/static/media/KaTeX_Fraktur-Regular.ed38e79f.ttf",
+    "local_path": "/_next/static/media/KaTeX_Fraktur-Regular.ed38e79f.ttf",
+    "bytes": 19572
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Main-Bold.b74a1a8b.ttf",
+    "original_path": "/_next/static/media/KaTeX_Main-Bold.b74a1a8b.ttf",
+    "local_path": "/_next/static/media/KaTeX_Main-Bold.b74a1a8b.ttf",
+    "bytes": 51336
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Main-Bold.c3fb5ac2.woff2",
+    "original_path": "/_next/static/media/KaTeX_Main-Bold.c3fb5ac2.woff2",
+    "local_path": "/_next/static/media/KaTeX_Main-Bold.c3fb5ac2.woff2",
+    "bytes": 25324
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Main-Bold.d181c465.woff",
+    "original_path": "/_next/static/media/KaTeX_Main-Bold.d181c465.woff",
+    "local_path": "/_next/static/media/KaTeX_Main-Bold.d181c465.woff",
+    "bytes": 29912
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Main-BoldItalic.6f2bb1df.woff2",
+    "original_path": "/_next/static/media/KaTeX_Main-BoldItalic.6f2bb1df.woff2",
+    "local_path": "/_next/static/media/KaTeX_Main-BoldItalic.6f2bb1df.woff2",
+    "bytes": 16780
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Main-BoldItalic.70d8b0a5.ttf",
+    "original_path": "/_next/static/media/KaTeX_Main-BoldItalic.70d8b0a5.ttf",
+    "local_path": "/_next/static/media/KaTeX_Main-BoldItalic.70d8b0a5.ttf",
+    "bytes": 32968
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Main-BoldItalic.e3f82f9d.woff",
+    "original_path": "/_next/static/media/KaTeX_Main-BoldItalic.e3f82f9d.woff",
+    "local_path": "/_next/static/media/KaTeX_Main-BoldItalic.e3f82f9d.woff",
+    "bytes": 19412
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Main-Italic.47373d1e.ttf",
+    "original_path": "/_next/static/media/KaTeX_Main-Italic.47373d1e.ttf",
+    "local_path": "/_next/static/media/KaTeX_Main-Italic.47373d1e.ttf",
+    "bytes": 33580
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Main-Italic.8916142b.woff2",
+    "original_path": "/_next/static/media/KaTeX_Main-Italic.8916142b.woff2",
+    "local_path": "/_next/static/media/KaTeX_Main-Italic.8916142b.woff2",
+    "bytes": 16988
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Main-Italic.9024d815.woff",
+    "original_path": "/_next/static/media/KaTeX_Main-Italic.9024d815.woff",
+    "local_path": "/_next/static/media/KaTeX_Main-Italic.9024d815.woff",
+    "bytes": 19676
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Main-Regular.0462f03b.woff2",
+    "original_path": "/_next/static/media/KaTeX_Main-Regular.0462f03b.woff2",
+    "local_path": "/_next/static/media/KaTeX_Main-Regular.0462f03b.woff2",
+    "bytes": 26272
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Main-Regular.7f51fe03.woff",
+    "original_path": "/_next/static/media/KaTeX_Main-Regular.7f51fe03.woff",
+    "local_path": "/_next/static/media/KaTeX_Main-Regular.7f51fe03.woff",
+    "bytes": 30772
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Main-Regular.b7f8fe9b.ttf",
+    "original_path": "/_next/static/media/KaTeX_Main-Regular.b7f8fe9b.ttf",
+    "local_path": "/_next/static/media/KaTeX_Main-Regular.b7f8fe9b.ttf",
+    "bytes": 53580
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Math-BoldItalic.572d331f.woff2",
+    "original_path": "/_next/static/media/KaTeX_Math-BoldItalic.572d331f.woff2",
+    "local_path": "/_next/static/media/KaTeX_Math-BoldItalic.572d331f.woff2",
+    "bytes": 16400
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Math-BoldItalic.a879cf83.ttf",
+    "original_path": "/_next/static/media/KaTeX_Math-BoldItalic.a879cf83.ttf",
+    "local_path": "/_next/static/media/KaTeX_Math-BoldItalic.a879cf83.ttf",
+    "bytes": 31196
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Math-BoldItalic.f1035d8d.woff",
+    "original_path": "/_next/static/media/KaTeX_Math-BoldItalic.f1035d8d.woff",
+    "local_path": "/_next/static/media/KaTeX_Math-BoldItalic.f1035d8d.woff",
+    "bytes": 18668
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Math-Italic.5295ba48.woff",
+    "original_path": "/_next/static/media/KaTeX_Math-Italic.5295ba48.woff",
+    "local_path": "/_next/static/media/KaTeX_Math-Italic.5295ba48.woff",
+    "bytes": 18748
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Math-Italic.939bc644.ttf",
+    "original_path": "/_next/static/media/KaTeX_Math-Italic.939bc644.ttf",
+    "local_path": "/_next/static/media/KaTeX_Math-Italic.939bc644.ttf",
+    "bytes": 31308
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Math-Italic.f28c23ac.woff2",
+    "original_path": "/_next/static/media/KaTeX_Math-Italic.f28c23ac.woff2",
+    "local_path": "/_next/static/media/KaTeX_Math-Italic.f28c23ac.woff2",
+    "bytes": 16440
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_SansSerif-Bold.8c5b5494.woff2",
+    "original_path": "/_next/static/media/KaTeX_SansSerif-Bold.8c5b5494.woff2",
+    "local_path": "/_next/static/media/KaTeX_SansSerif-Bold.8c5b5494.woff2",
+    "bytes": 12216
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_SansSerif-Bold.94e1e8dc.ttf",
+    "original_path": "/_next/static/media/KaTeX_SansSerif-Bold.94e1e8dc.ttf",
+    "local_path": "/_next/static/media/KaTeX_SansSerif-Bold.94e1e8dc.ttf",
+    "bytes": 24504
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_SansSerif-Bold.bf59d231.woff",
+    "original_path": "/_next/static/media/KaTeX_SansSerif-Bold.bf59d231.woff",
+    "local_path": "/_next/static/media/KaTeX_SansSerif-Bold.bf59d231.woff",
+    "bytes": 14408
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_SansSerif-Italic.3b1e59b3.woff2",
+    "original_path": "/_next/static/media/KaTeX_SansSerif-Italic.3b1e59b3.woff2",
+    "local_path": "/_next/static/media/KaTeX_SansSerif-Italic.3b1e59b3.woff2",
+    "bytes": 12028
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_SansSerif-Italic.7c9bc82b.woff",
+    "original_path": "/_next/static/media/KaTeX_SansSerif-Italic.7c9bc82b.woff",
+    "local_path": "/_next/static/media/KaTeX_SansSerif-Italic.7c9bc82b.woff",
+    "bytes": 14112
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_SansSerif-Italic.b4c20c84.ttf",
+    "original_path": "/_next/static/media/KaTeX_SansSerif-Italic.b4c20c84.ttf",
+    "local_path": "/_next/static/media/KaTeX_SansSerif-Italic.b4c20c84.ttf",
+    "bytes": 22364
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_SansSerif-Regular.74048478.woff",
+    "original_path": "/_next/static/media/KaTeX_SansSerif-Regular.74048478.woff",
+    "local_path": "/_next/static/media/KaTeX_SansSerif-Regular.74048478.woff",
+    "bytes": 12316
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_SansSerif-Regular.ba21ed5f.woff2",
+    "original_path": "/_next/static/media/KaTeX_SansSerif-Regular.ba21ed5f.woff2",
+    "local_path": "/_next/static/media/KaTeX_SansSerif-Regular.ba21ed5f.woff2",
+    "bytes": 10344
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_SansSerif-Regular.d4d7ba48.ttf",
+    "original_path": "/_next/static/media/KaTeX_SansSerif-Regular.d4d7ba48.ttf",
+    "local_path": "/_next/static/media/KaTeX_SansSerif-Regular.d4d7ba48.ttf",
+    "bytes": 19436
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Script-Regular.03e9641d.woff2",
+    "original_path": "/_next/static/media/KaTeX_Script-Regular.03e9641d.woff2",
+    "local_path": "/_next/static/media/KaTeX_Script-Regular.03e9641d.woff2",
+    "bytes": 9644
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Script-Regular.07505710.woff",
+    "original_path": "/_next/static/media/KaTeX_Script-Regular.07505710.woff",
+    "local_path": "/_next/static/media/KaTeX_Script-Regular.07505710.woff",
+    "bytes": 10588
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Script-Regular.fe9cbbe1.ttf",
+    "original_path": "/_next/static/media/KaTeX_Script-Regular.fe9cbbe1.ttf",
+    "local_path": "/_next/static/media/KaTeX_Script-Regular.fe9cbbe1.ttf",
+    "bytes": 16648
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Size1-Regular.e1e279cb.woff",
+    "original_path": "/_next/static/media/KaTeX_Size1-Regular.e1e279cb.woff",
+    "local_path": "/_next/static/media/KaTeX_Size1-Regular.e1e279cb.woff",
+    "bytes": 6496
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Size1-Regular.eae34984.woff2",
+    "original_path": "/_next/static/media/KaTeX_Size1-Regular.eae34984.woff2",
+    "local_path": "/_next/static/media/KaTeX_Size1-Regular.eae34984.woff2",
+    "bytes": 5468
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Size1-Regular.fabc004a.ttf",
+    "original_path": "/_next/static/media/KaTeX_Size1-Regular.fabc004a.ttf",
+    "local_path": "/_next/static/media/KaTeX_Size1-Regular.fabc004a.ttf",
+    "bytes": 12228
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Size2-Regular.57727022.woff",
+    "original_path": "/_next/static/media/KaTeX_Size2-Regular.57727022.woff",
+    "local_path": "/_next/static/media/KaTeX_Size2-Regular.57727022.woff",
+    "bytes": 6188
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Size2-Regular.5916a24f.woff2",
+    "original_path": "/_next/static/media/KaTeX_Size2-Regular.5916a24f.woff2",
+    "local_path": "/_next/static/media/KaTeX_Size2-Regular.5916a24f.woff2",
+    "bytes": 5208
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Size2-Regular.d6b476ec.ttf",
+    "original_path": "/_next/static/media/KaTeX_Size2-Regular.d6b476ec.ttf",
+    "local_path": "/_next/static/media/KaTeX_Size2-Regular.d6b476ec.ttf",
+    "bytes": 11508
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Size3-Regular.9acaf01c.woff",
+    "original_path": "/_next/static/media/KaTeX_Size3-Regular.9acaf01c.woff",
+    "local_path": "/_next/static/media/KaTeX_Size3-Regular.9acaf01c.woff",
+    "bytes": 4420
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Size3-Regular.a144ef58.ttf",
+    "original_path": "/_next/static/media/KaTeX_Size3-Regular.a144ef58.ttf",
+    "local_path": "/_next/static/media/KaTeX_Size3-Regular.a144ef58.ttf",
+    "bytes": 7588
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Size3-Regular.b4230e7e.woff2",
+    "original_path": "/_next/static/media/KaTeX_Size3-Regular.b4230e7e.woff2",
+    "local_path": "/_next/static/media/KaTeX_Size3-Regular.b4230e7e.woff2",
+    "bytes": 3624
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Size4-Regular.10d95fd3.woff2",
+    "original_path": "/_next/static/media/KaTeX_Size4-Regular.10d95fd3.woff2",
+    "local_path": "/_next/static/media/KaTeX_Size4-Regular.10d95fd3.woff2",
+    "bytes": 4928
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Size4-Regular.7a996c9d.woff",
+    "original_path": "/_next/static/media/KaTeX_Size4-Regular.7a996c9d.woff",
+    "local_path": "/_next/static/media/KaTeX_Size4-Regular.7a996c9d.woff",
+    "bytes": 5980
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Size4-Regular.fbccdabe.ttf",
+    "original_path": "/_next/static/media/KaTeX_Size4-Regular.fbccdabe.ttf",
+    "local_path": "/_next/static/media/KaTeX_Size4-Regular.fbccdabe.ttf",
+    "bytes": 10364
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Typewriter-Regular.6258592b.woff",
+    "original_path": "/_next/static/media/KaTeX_Typewriter-Regular.6258592b.woff",
+    "local_path": "/_next/static/media/KaTeX_Typewriter-Regular.6258592b.woff",
+    "bytes": 16028
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Typewriter-Regular.a8709e36.woff2",
+    "original_path": "/_next/static/media/KaTeX_Typewriter-Regular.a8709e36.woff2",
+    "local_path": "/_next/static/media/KaTeX_Typewriter-Regular.a8709e36.woff2",
+    "bytes": 13568
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/media/KaTeX_Typewriter-Regular.d97aaf4a.ttf",
+    "original_path": "/_next/static/media/KaTeX_Typewriter-Regular.d97aaf4a.ttf",
+    "local_path": "/_next/static/media/KaTeX_Typewriter-Regular.d97aaf4a.ttf",
+    "bytes": 27556
+  },
+  {
+    "url": "https://www.lightspark.com/brand/lightspark-symbol.svg",
+    "original_path": "/brand/lightspark-symbol.svg",
+    "local_path": "/brand/lightspark-symbol.svg",
+    "bytes": 547
+  },
+  {
+    "url": "https://www.lightspark.com/brand/lightspark-wordmark.svg",
+    "original_path": "/brand/lightspark-wordmark.svg",
+    "local_path": "/brand/lightspark-wordmark.svg",
+    "bytes": 3757
+  },
+  {
+    "url": "https://www.lightspark.com/fonts/SuisseIntlMonoVF.woff2",
+    "original_path": "/fonts/SuisseIntlMonoVF.woff2",
+    "local_path": "/fonts/SuisseIntlMonoVF.woff2",
+    "bytes": 68668
+  },
+  {
+    "url": "https://www.lightspark.com/fonts/SuisseIntlVF-Italic.woff2",
+    "original_path": "/fonts/SuisseIntlVF-Italic.woff2",
+    "local_path": "/fonts/SuisseIntlVF-Italic.woff2",
+    "bytes": 364544
+  },
+  {
+    "url": "https://www.lightspark.com/images/businesses/nav/nav-img-creator.webp",
+    "original_path": "/images/businesses/nav/nav-img-creator.webp",
+    "local_path": "/images/businesses/nav/nav-img-creator.webp",
+    "bytes": 248202
+  },
+  {
+    "url": "https://www.lightspark.com/images/businesses/nav/nav-img-marketplaces.webp",
+    "original_path": "/images/businesses/nav/nav-img-marketplaces.webp",
+    "local_path": "/images/businesses/nav/nav-img-marketplaces.webp",
+    "bytes": 226550
+  },
+  {
+    "url": "https://www.lightspark.com/images/businesses/nav/nav-img-messaging.webp",
+    "original_path": "/images/businesses/nav/nav-img-messaging.webp",
+    "local_path": "/images/businesses/nav/nav-img-messaging.webp",
+    "bytes": 244848
+  },
+  {
+    "url": "https://www.lightspark.com/images/businesses/nav/nav-img-ondemand.webp",
+    "original_path": "/images/businesses/nav/nav-img-ondemand.webp",
+    "local_path": "/images/businesses/nav/nav-img-ondemand.webp",
+    "bytes": 279976
+  },
+  {
+    "url": "https://www.lightspark.com/images/businesses/nav/nav-img-social.webp",
+    "original_path": "/images/businesses/nav/nav-img-social.webp",
+    "local_path": "/images/businesses/nav/nav-img-social.webp",
+    "bytes": 205996
+  },
+  {
+    "url": "https://www.lightspark.com/images/businesses/nav/nav-img-wallets.webp",
+    "original_path": "/images/businesses/nav/nav-img-wallets.webp",
+    "local_path": "/images/businesses/nav/nav-img-wallets.webp",
+    "bytes": 244238
+  },
+  {
+    "url": "https://www.lightspark.com/images/default-share.webp",
+    "original_path": "/images/default-share.webp",
+    "local_path": "/images/default-share.webp",
+    "bytes": 144150
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero-v2-blur/hero-img-globalaccounts.webp",
+    "original_path": "/images/hero-v2-blur/hero-img-globalaccounts.webp",
+    "local_path": "/images/hero-v2-blur/hero-img-globalaccounts.webp",
+    "bytes": 54768
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero/hero-img-creator.webp",
+    "original_path": "/images/hero/hero-img-creator.webp",
+    "local_path": "/images/hero/hero-img-creator.webp",
+    "bytes": 65316
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero/hero-img-cross-border.webp",
+    "original_path": "/images/hero/hero-img-cross-border.webp",
+    "local_path": "/images/hero/hero-img-cross-border.webp",
+    "bytes": 54084
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero/hero-img-embedded-finance.webp",
+    "original_path": "/images/hero/hero-img-embedded-finance.webp",
+    "local_path": "/images/hero/hero-img-embedded-finance.webp",
+    "bytes": 182602
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero/hero-img-marketplaces.webp",
+    "original_path": "/images/hero/hero-img-marketplaces.webp",
+    "local_path": "/images/hero/hero-img-marketplaces.webp",
+    "bytes": 43070
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero/hero-img-ondemand.webp",
+    "original_path": "/images/hero/hero-img-ondemand.webp",
+    "local_path": "/images/hero/hero-img-ondemand.webp",
+    "bytes": 104100
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero/hero-img-payouts.webp",
+    "original_path": "/images/hero/hero-img-payouts.webp",
+    "local_path": "/images/hero/hero-img-payouts.webp",
+    "bytes": 122496
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero/hero-img-payroll.webp",
+    "original_path": "/images/hero/hero-img-payroll.webp",
+    "local_path": "/images/hero/hero-img-payroll.webp",
+    "bytes": 111934
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero/hero-img-placeholder.webp",
+    "original_path": "/images/hero/hero-img-placeholder.webp",
+    "local_path": "/images/hero/hero-img-placeholder.webp",
+    "bytes": 1992
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero/hero-img-rewards.webp",
+    "original_path": "/images/hero/hero-img-rewards.webp",
+    "local_path": "/images/hero/hero-img-rewards.webp",
+    "bytes": 147014
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero/hero-img-stablecoins.webp",
+    "original_path": "/images/hero/hero-img-stablecoins.webp",
+    "local_path": "/images/hero/hero-img-stablecoins.webp",
+    "bytes": 234124
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero/hero-img-treasury.webp",
+    "original_path": "/images/hero/hero-img-treasury.webp",
+    "local_path": "/images/hero/hero-img-treasury.webp",
+    "bytes": 138184
+  },
+  {
+    "url": "https://www.lightspark.com/images/hero/hero-img-wallets.webp",
+    "original_path": "/images/hero/hero-img-wallets.webp",
+    "local_path": "/images/hero/hero-img-wallets.webp",
+    "bytes": 56928
+  },
+  {
+    "url": "https://www.lightspark.com/images/logo-usage/logo-light-bg.png",
+    "original_path": "/images/logo-usage/logo-light-bg.png",
+    "local_path": "/images/logo-usage/logo-light-bg.png",
+    "bytes": 11631
+  },
+  {
+    "url": "https://www.lightspark.com/images/nav/nav-img-about.webp",
+    "original_path": "/images/nav/nav-img-about.webp",
+    "local_path": "/images/nav/nav-img-about.webp",
+    "bytes": 137294
+  },
+  {
+    "url": "https://www.lightspark.com/images/nav/nav-img-agentic-payments.webp",
+    "original_path": "/images/nav/nav-img-agentic-payments.webp",
+    "local_path": "/images/nav/nav-img-agentic-payments.webp",
+    "bytes": 261628
+  },
+  {
+    "url": "https://www.lightspark.com/images/nav/nav-img-bank.webp",
+    "original_path": "/images/nav/nav-img-bank.webp",
+    "local_path": "/images/nav/nav-img-bank.webp",
+    "bytes": 182756
+  },
+  {
+    "url": "https://www.lightspark.com/images/nav/nav-img-cards.webp",
+    "original_path": "/images/nav/nav-img-cards.webp",
+    "local_path": "/images/nav/nav-img-cards.webp",
+    "bytes": 232304
+  },
+  {
+    "url": "https://www.lightspark.com/images/nav/nav-img-careers.webp",
+    "original_path": "/images/nav/nav-img-careers.webp",
+    "local_path": "/images/nav/nav-img-careers.webp",
+    "bytes": 311580
+  },
+  {
+    "url": "https://www.lightspark.com/images/nav/nav-img-cross-border.webp",
+    "original_path": "/images/nav/nav-img-cross-border.webp",
+    "local_path": "/images/nav/nav-img-cross-border.webp",
+    "bytes": 237942
+  },
+  {
+    "url": "https://www.lightspark.com/images/nav/nav-img-embedded-finance.webp",
+    "original_path": "/images/nav/nav-img-embedded-finance.webp",
+    "local_path": "/images/nav/nav-img-embedded-finance.webp",
+    "bytes": 387208
+  },
+  {
+    "url": "https://www.lightspark.com/images/nav/nav-img-faq.webp",
+    "original_path": "/images/nav/nav-img-faq.webp",
+    "local_path": "/images/nav/nav-img-faq.webp",
+    "bytes": 225936
+  },
+  {
+    "url": "https://www.lightspark.com/images/nav/nav-img-fx.webp",
+    "original_path": "/images/nav/nav-img-fx.webp",
+    "local_path": "/images/nav/nav-img-fx.webp",
+    "bytes": 400960
+  },
+  {
+    "url": "https://www.lightspark.com/images/nav/nav-img-gga.webp",
+    "original_path": "/images/nav/nav-img-gga.webp",
+    "local_path": "/images/nav/nav-img-gga.webp",
+    "bytes": 89814
+  },
+  {
+    "url": "https://www.lightspark.com/images/nav/nav-img-grid.webp",
+    "original_path": "/images/nav/nav-img-grid.webp",
+    "local_path": "/images/nav/nav-img-grid.webp",
+    "bytes": 80124
+  },
+  {
+    "url": "https://www.lightspark.com/images/nav/nav-img-news.webp",
+    "original_path": "/images/nav/nav-img-news.webp",
+    "local_path": "/images/nav/nav-img-news.webp",
+    "bytes": 321800
+  },
+  {
+    "url": "https://www.lightspark.com/images/nav/nav-img-payins.webp",
+    "original_path": "/images/nav/nav-img-payins.webp",
+    "local_path": "/images/nav/nav-img-payins.webp",
+    "bytes": 336842
+  },
+  {
+    "url": "https://www.lightspark.com/images/nav/nav-img-payouts.webp",
+    "original_path": "/images/nav/nav-img-payouts.webp",
+    "local_path": "/images/nav/nav-img-payouts.webp",
+    "bytes": 324222
+  },
+  {
+    "url": "https://www.lightspark.com/images/nav/nav-img-payroll.webp",
+    "original_path": "/images/nav/nav-img-payroll.webp",
+    "local_path": "/images/nav/nav-img-payroll.webp",
+    "bytes": 302664
+  },
+  {
+    "url": "https://www.lightspark.com/images/nav/nav-img-ramps.webp",
+    "original_path": "/images/nav/nav-img-ramps.webp",
+    "local_path": "/images/nav/nav-img-ramps.webp",
+    "bytes": 310456
+  },
+  {
+    "url": "https://www.lightspark.com/images/nav/nav-img-rewards.webp",
+    "original_path": "/images/nav/nav-img-rewards.webp",
+    "local_path": "/images/nav/nav-img-rewards.webp",
+    "bytes": 329882
+  },
+  {
+    "url": "https://www.lightspark.com/images/nav/nav-img-spark.webp",
+    "original_path": "/images/nav/nav-img-spark.webp",
+    "local_path": "/images/nav/nav-img-spark.webp",
+    "bytes": 93860
+  },
+  {
+    "url": "https://www.lightspark.com/images/nav/nav-img-stablecoins.webp",
+    "original_path": "/images/nav/nav-img-stablecoins.webp",
+    "local_path": "/images/nav/nav-img-stablecoins.webp",
+    "bytes": 444062
+  },
+  {
+    "url": "https://www.lightspark.com/images/nav/nav-img-treasury.webp",
+    "original_path": "/images/nav/nav-img-treasury.webp",
+    "local_path": "/images/nav/nav-img-treasury.webp",
+    "bytes": 343972
+  },
+  {
+    "url": "https://www.lightspark.com/images/og/home.webp",
+    "original_path": "/images/og/home.webp",
+    "local_path": "/images/og/home.webp",
+    "bytes": 144150
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/chunks/353.72039a10db1ee90f.js",
+    "original_path": "/_next/static/chunks/353.72039a10db1ee90f.js",
+    "local_path": "/_next/static/chunks/353.72039a10db1ee90f.js",
+    "bytes": 25967
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/chunks/455.41927ebeb2cd54e6.js",
+    "original_path": "/_next/static/chunks/455.41927ebeb2cd54e6.js",
+    "local_path": "/_next/static/chunks/455.41927ebeb2cd54e6.js",
+    "bytes": 6873
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/chunks/1034.84e241f91c2cad3b.js",
+    "original_path": "/_next/static/chunks/1034.84e241f91c2cad3b.js",
+    "local_path": "/_next/static/chunks/1034.84e241f91c2cad3b.js",
+    "bytes": 1567728
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/chunks/1242.d9e25e27cb46a478.js",
+    "original_path": "/_next/static/chunks/1242.d9e25e27cb46a478.js",
+    "local_path": "/_next/static/chunks/1242.d9e25e27cb46a478.js",
+    "bytes": 24032
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/chunks/reactPlayerPreview.487c8719262db9fd.js",
+    "original_path": "/_next/static/chunks/reactPlayerPreview.487c8719262db9fd.js",
+    "local_path": "/_next/static/chunks/reactPlayerPreview.487c8719262db9fd.js",
+    "bytes": 2617
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/css/a26479acba75956b.css",
+    "original_path": "/_next/static/css/a26479acba75956b.css",
+    "local_path": "/_next/static/css/a26479acba75956b.css",
+    "bytes": 3253
+  },
+  {
+    "url": "https://www.lightspark.com/_next/static/css/2d9041563e6ad05f.css",
+    "original_path": "/_next/static/css/2d9041563e6ad05f.css",
+    "local_path": "/_next/static/css/2d9041563e6ad05f.css",
+    "bytes": 5735
+  },
+  {
+    "url": "https://www.lightspark.com/images/default-share.webp",
+    "original_path": "/images/default-share.webp",
+    "local_path": "/images/default-share.webp",
+    "bytes": 144150
+  }
+]

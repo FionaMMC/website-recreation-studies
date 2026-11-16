@@ -1,0 +1,15 @@
+{
+  "name": "lightspark-homepage-replica",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A React reproduction of Lightspark with the original visual and motion system",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "start": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "check": "python3 scripts/check.py"
+  },
+  "devDependencies": { "vite": "^7.2.2" }
+}

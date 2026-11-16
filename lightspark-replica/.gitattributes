@@ -1,0 +1,7 @@
+public/_next/** linguist-vendored
+public/images/** linguist-vendored
+public/fonts/** linguist-vendored
+public/favicons/** linguist-vendored
+public/brand/** linguist-vendored
+index.html linguist-generated
+src/data/page-data.json linguist-generated
