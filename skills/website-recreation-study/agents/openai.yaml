@@ -1,0 +1,6 @@
+interface:
+  display_name: "网页复刻与设计沉淀"
+  short_description: "从链接复刻 React 页面或拆解设计，积累可复用组件与标签"
+  default_prompt: "使用 $website-recreation-study 复刻这个网页链接，以 React 本地预览交付，并沉淀独立组件、设计 labels 和我的感受。"
+policy:
+  allow_implicit_invocation: true

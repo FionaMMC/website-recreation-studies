@@ -32,6 +32,12 @@ npm run dev
 
 新案例可以使用 [学习模板](lightspark-replica/docs/study-template.md)。记录事实与解释的区别，避免把个人喜好写成唯一答案。
 
+## 复用这套流程
+
+已整理为 [website-recreation-study 技能](skills/website-recreation-study/SKILL.md)，包含参考采集、实现路线、代码与设计资源沉淀，以及通用静态资源检查器。
+
+以后可以说：“用 `$website-recreation-study` 复刻这个链接，按我们的学习系列整理。” 默认使用 React 并提供本地预览，同时提炼可维护的独立组件、设计 labels 和感受笔记。网站发布与公开上传按当前授权处理。
+
 ## 素材与实现说明
 
 本仓库与被研究网站无关联。Lightspark 的品牌、字体、图片、文案及保留的原始前端模块归原权利人所有；公开可访问不等于开放授权。首个案例为视觉学习保留原始资源，并把新写的可复用模式单独放在 `src/patterns/`。素材来源及实现边界见案例的 [NOTICE](lightspark-replica/NOTICE.md)。
